@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="254px" preserveAspectRatio="none" style="width:664px;height:254px;background:#FFFFFF;" version="1.1" viewBox="0 0 664 254" width="664px" zoomAndPan="magnify"><defs/><g><!--MD5=[dd40040247502c4bc3521dfbb795a983]
+class meals--><rect codeLine="25" fill="#FFFFFF" height="83.1875" id="meals" rx="2.5" ry="2.5" style="stroke:#2E8B57;stroke-width:1.5;" width="295.3333" x="362" y="158"/><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="42" x="488.6667" y="174.1387">meals</text><line style="stroke:#2E8B57;stroke-width:1.5;" x1="363" x2="656.3333" y1="181.9688" y2="181.9688"/><path d="M374.0417,188.6901 C372.7767,188.6901 371.75,189.7168 371.75,190.9818 C371.75,191.1284 371.75,191.2751 371.7775,191.4126 L369,194.1901 L369,196.0234 L371.75,196.0234 L371.75,194.1901 L373.5833,194.1901 L373.5833,193.2734 L373.6108,193.2459 C373.7483,193.2734 373.895,193.2734 374.0417,193.2734 C375.3067,193.2734 376.3333,192.2468 376.3333,190.9818 C376.3333,189.7168 375.3067,188.6901 374.0417,188.6901 M374.5,189.6068 C375.0042,189.6068 375.4167,190.0193 375.4167,190.5234 C375.4167,191.0276 375.0042,191.4401 374.5,191.4401 C373.9958,191.4401 373.5833,191.0276 373.5833,190.5234 C373.5833,190.0193 373.9958,189.6068 374.5,189.6068 " fill="#B8860B" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="12" x="381.3333" y="196.1792">id</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="35" x="393.3333" y="196.1792">: UUID</text><path d="M371.75,201.4948 C370.2283,201.4948 369,202.7231 369,204.2448 C369,205.7665 370.2283,206.9948 371.75,206.9948 C373.2717,206.9948 374.5,205.7665 374.5,204.2448 C374.5,202.7231 373.2717,201.4948 371.75,201.4948 " fill="#EFEFEF" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="208" x="381.3333" y="208.9839">procedure_txt: CHARACTER VARYING</text><path d="M371.75,214.2995 C370.2283,214.2995 369,215.5278 369,217.0495 C369,218.5711 370.2283,219.7995 371.75,219.7995 C373.2717,219.7995 374.5,218.5711 374.5,217.0495 C374.5,215.5278 373.2717,214.2995 371.75,214.2995 " fill="#EFEFEF" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="164" x="381.3333" y="221.7886">owner: CHARACTER VARYING</text><path d="M371.75,227.1042 C370.2283,227.1042 369,228.3325 369,229.8542 C369,231.3758 370.2283,232.6042 371.75,232.6042 C373.2717,232.6042 374.5,231.3758 374.5,229.8542 C374.5,228.3325 373.2717,227.1042 371.75,227.1042 " fill="#EFEFEF" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="270" x="381.3333" y="234.5933">created_at: TIMESTAMP WITHOUT TIME ZONE(6)</text><!--MD5=[f47430e5973fc421cb6250d8c41e5e21]
+class meal_i18n--><rect codeLine="32" fill="#FFFFFF" height="95.9922" id="meal_i18n" rx="2.5" ry="2.5" style="stroke:#2E8B57;stroke-width:1.5;" width="295.3333" x="7" y="151.5"/><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="70" x="119.6667" y="167.6387">meal_i18n</text><line style="stroke:#2E8B57;stroke-width:1.5;" x1="8" x2="301.3333" y1="175.4688" y2="175.4688"/><path d="M19.0417,182.1901 C17.7767,182.1901 16.75,183.2168 16.75,184.4818 C16.75,184.6284 16.75,184.7751 16.7775,184.9126 L14,187.6901 L14,189.5234 L16.75,189.5234 L16.75,187.6901 L18.5833,187.6901 L18.5833,186.7734 L18.6108,186.7459 C18.7483,186.7734 18.895,186.7734 19.0417,186.7734 C20.3067,186.7734 21.3333,185.7468 21.3333,184.4818 C21.3333,183.2168 20.3067,182.1901 19.0417,182.1901 M19.5,183.1068 C20.0042,183.1068 20.4167,183.5193 20.4167,184.0234 C20.4167,184.5276 20.0042,184.9401 19.5,184.9401 C18.9958,184.9401 18.5833,184.5276 18.5833,184.0234 C18.5833,183.5193 18.9958,183.1068 19.5,183.1068 " fill="#B8860B" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="40" x="26.3333" y="189.6792">locale</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="144" x="66.3333" y="189.6792">: CHARACTER VARYING(5)</text><path d="M16.75,194.9948 C15.2283,194.9948 14,196.2231 14,197.7448 C14,199.2665 15.2283,200.4948 16.75,200.4948 C18.2717,200.4948 19.5,199.2665 19.5,197.7448 C19.5,196.2231 18.2717,194.9948 16.75,194.9948 " fill="#EFEFEF" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="208" x="26.3333" y="202.4839">procedure_txt: CHARACTER VARYING</text><path d="M16.75,207.7995 C15.2283,207.7995 14,209.0278 14,210.5495 C14,212.0711 15.2283,213.2995 16.75,213.2995 C18.2717,213.2995 19.5,212.0711 19.5,210.5495 C19.5,209.0278 18.2717,207.7995 16.75,207.7995 " fill="#EFEFEF" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="162" x="26.3333" y="215.2886">name: CHARACTER VARYING</text><path d="M16.75,220.6042 C15.2283,220.6042 14,221.8325 14,223.3542 C14,224.8758 15.2283,226.1042 16.75,226.1042 C18.2717,226.1042 19.5,224.8758 19.5,223.3542 C19.5,221.8325 18.2717,220.6042 16.75,220.6042 " fill="#EFEFEF" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="270" x="26.3333" y="228.0933">created_at: TIMESTAMP WITHOUT TIME ZONE(6)</text><path d="M19.0417,233.4089 C17.7767,233.4089 16.75,234.4355 16.75,235.7005 C16.75,235.8472 16.75,235.9939 16.7775,236.1314 L14,238.9089 L14,240.7422 L16.75,240.7422 L16.75,238.9089 L18.5833,238.9089 L18.5833,237.9922 L18.6108,237.9647 C18.7483,237.9922 18.895,237.9922 19.0417,237.9922 C20.3067,237.9922 21.3333,236.9655 21.3333,235.7005 C21.3333,234.4355 20.3067,233.4089 19.0417,233.4089 M19.5,234.3255 C20.0042,234.3255 20.4167,234.738 20.4167,235.2422 C20.4167,235.7464 20.0042,236.1589 19.5,236.1589 C18.9958,236.1589 18.5833,235.7464 18.5833,235.2422 C18.5833,234.738 18.9958,234.3255 19.5,234.3255 " fill="#B8860B" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="12" x="26.3333" y="240.8979">id</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="35" x="38.3333" y="240.8979">: UUID</text><!--MD5=[77b9bd8d0165a79709a3ba42ea8f52a1]
+class overrides--><rect codeLine="40" fill="#FFFFFF" height="108.7969" id="overrides" rx="2.5" ry="2.5" style="stroke:#2E8B57;stroke-width:1.5;" width="295.3333" x="7" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="70" x="119.6667" y="23.1387">overrides</text><line style="stroke:#2E8B57;stroke-width:1.5;" x1="8" x2="301.3333" y1="30.9688" y2="30.9688"/><path d="M19.0417,37.6901 C17.7767,37.6901 16.75,38.7168 16.75,39.9818 C16.75,40.1284 16.75,40.2751 16.7775,40.4126 L14,43.1901 L14,45.0234 L16.75,45.0234 L16.75,43.1901 L18.5833,43.1901 L18.5833,42.2734 L18.6108,42.2459 C18.7483,42.2734 18.895,42.2734 19.0417,42.2734 C20.3067,42.2734 21.3333,41.2468 21.3333,39.9818 C21.3333,38.7168 20.3067,37.6901 19.0417,37.6901 M19.5,38.6068 C20.0042,38.6068 20.4167,39.0193 20.4167,39.5234 C20.4167,40.0276 20.0042,40.4401 19.5,40.4401 C18.9958,40.4401 18.5833,40.0276 18.5833,39.5234 C18.5833,39.0193 18.9958,38.6068 19.5,38.6068 " fill="#B8860B" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="12" x="26.3333" y="45.1792">id</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="129" x="38.3333" y="45.1792">: CHARACTER VARYING</text><path d="M19.0417,50.4948 C17.7767,50.4948 16.75,51.5215 16.75,52.7865 C16.75,52.9331 16.75,53.0798 16.7775,53.2173 L14,55.9948 L14,57.8281 L16.75,57.8281 L16.75,55.9948 L18.5833,55.9948 L18.5833,55.0781 L18.6108,55.0506 C18.7483,55.0781 18.895,55.0781 19.0417,55.0781 C20.3067,55.0781 21.3333,54.0515 21.3333,52.7865 C21.3333,51.5215 20.3067,50.4948 19.0417,50.4948 M19.5,51.4115 C20.0042,51.4115 20.4167,51.824 20.4167,52.3281 C20.4167,52.8323 20.0042,53.2448 19.5,53.2448 C18.9958,53.2448 18.5833,52.8323 18.5833,52.3281 C18.5833,51.824 18.9958,51.4115 19.5,51.4115 " fill="#B8860B" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="40" x="26.3333" y="57.9839">locale</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="144" x="66.3333" y="57.9839">: CHARACTER VARYING(5)</text><path d="M19.0417,63.2995 C17.7767,63.2995 16.75,64.3261 16.75,65.5911 C16.75,65.7378 16.75,65.8845 16.7775,66.022 L14,68.7995 L14,70.6328 L16.75,70.6328 L16.75,68.7995 L18.5833,68.7995 L18.5833,67.8828 L18.6108,67.8553 C18.7483,67.8828 18.895,67.8828 19.0417,67.8828 C20.3067,67.8828 21.3333,66.8561 21.3333,65.5911 C21.3333,64.3261 20.3067,63.2995 19.0417,63.2995 M19.5,64.2161 C20.0042,64.2161 20.4167,64.6286 20.4167,65.1328 C20.4167,65.637 20.0042,66.0495 19.5,66.0495 C18.9958,66.0495 18.5833,65.637 18.5833,65.1328 C18.5833,64.6286 18.9958,64.2161 19.5,64.2161 " fill="#B8860B" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="39" x="26.3333" y="70.7886">coach</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="129" x="65.3333" y="70.7886">: CHARACTER VARYING</text><path d="M16.75,76.1042 C15.2283,76.1042 14,77.3325 14,78.8542 C14,80.3758 15.2283,81.6042 16.75,81.6042 C18.2717,81.6042 19.5,80.3758 19.5,78.8542 C19.5,77.3325 18.2717,76.1042 16.75,76.1042 " fill="#EFEFEF" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="208" x="26.3333" y="83.5933">procedure_txt: CHARACTER VARYING</text><path d="M16.75,88.9089 C15.2283,88.9089 14,90.1372 14,91.6589 C14,93.1805 15.2283,94.4089 16.75,94.4089 C18.2717,94.4089 19.5,93.1805 19.5,91.6589 C19.5,90.1372 18.2717,88.9089 16.75,88.9089 " fill="#EFEFEF" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="162" x="26.3333" y="96.3979">name: CHARACTER VARYING</text><path d="M16.75,101.7135 C15.2283,101.7135 14,102.9419 14,104.4635 C14,105.9852 15.2283,107.2135 16.75,107.2135 C18.2717,107.2135 19.5,105.9852 19.5,104.4635 C19.5,102.9419 18.2717,101.7135 16.75,101.7135 " fill="#EFEFEF" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="270" x="26.3333" y="109.2026">created_at: TIMESTAMP WITHOUT TIME ZONE(6)</text><!--MD5=[c3e80c8e246303231f81ffdb9adbe05e]
+link meal_i18n to meals--><path codeLine="49" d="M310.225,199.5 C310.225,199.5 353.839,199.5 353.839,199.5 " fill="none" id="meal_i18n-meals" style="stroke:#2E8B57;stroke-width:1.0;"/><line style="stroke:#2E8B57;stroke-width:1.0;" x1="357.839" x2="357.839" y1="195.5" y2="203.5"/><line style="stroke:#2E8B57;stroke-width:1.0;" x1="354.839" x2="354.839" y1="195.5" y2="203.5"/><line style="stroke:#2E8B57;stroke-width:1.0;" x1="353.839" x2="361.839" y1="199.5" y2="199.5"/><line style="stroke:#2E8B57;stroke-width:1.0;" x1="310.225" x2="302.225" y1="199.5" y2="205.5"/><line style="stroke:#2E8B57;stroke-width:1.0;" x1="310.225" x2="302.225" y1="199.5" y2="193.5"/><line style="stroke:#2E8B57;stroke-width:1.0;" x1="310.225" x2="302.225" y1="199.5" y2="199.5"/><line style="stroke:#2E8B57;stroke-width:1.0;" x1="312.225" x2="312.225" y1="203.5" y2="195.5"/><!--MD5=[81878d24a01ca22265f93c0d59be337c]
+@startuml
+!define table(ename, dbname) entity "<b>dbname</b>"
+
+!define pkey(x) {field} <b><color:DarkGoldenRod><&key></color> x</b>
+!define fkey(x) {field} <color:#AAAAAA><&key></color> x
+!define column(x) {field} <color:#EFEFEF><&media-record></color> x
+
+hide stereotypes
+hide methods
+hide circle
+
+left to right direction
+
+skinparam roundcorner 5
+skinparam linetype ortho
+skinparam shadowing false
+skinparam handwritten false
+
+skinparam class {
+    BackgroundColor white
+    ArrowColor seagreen
+    BorderColor seagreen
+}
+
+
+table( Meal, meals ) as meals {
+  pkey( id ): UUID 
+  column( procedure_txt ): CHARACTER VARYING 
+  column( owner ): CHARACTER VARYING 
+  column( created_at ): TIMESTAMP WITHOUT TIME ZONE(6) 
+}
+
+table( I18nMeal, meal_i18n ) as meal_i18n {
+  pkey( locale ): CHARACTER VARYING(5) 
+  column( procedure_txt ): CHARACTER VARYING 
+  column( name ): CHARACTER VARYING 
+  column( created_at ): TIMESTAMP WITHOUT TIME ZONE(6) 
+  pkey( id ): UUID 
+}
+
+table( OverridenMeals, overrides ) as overrides {
+  pkey( id ): CHARACTER VARYING 
+  pkey( locale ): CHARACTER VARYING(5) 
+  pkey( coach ): CHARACTER VARYING 
+  column( procedure_txt ): CHARACTER VARYING 
+  column( name ): CHARACTER VARYING 
+  column( created_at ): TIMESTAMP WITHOUT TIME ZONE(6) 
+}
+
+meal_i18n }|- -|| meals
+@enduml
+
+@startuml
+
+
+hide stereotypes
+hide methods
+hide circle
+
+left to right direction
+
+skinparam roundcorner 5
+skinparam linetype ortho
+skinparam shadowing false
+skinparam handwritten false
+
+skinparam class {
+    BackgroundColor white
+    ArrowColor seagreen
+    BorderColor seagreen
+}
+
+
+entity "<b>meals</b>" as meals {
+  {field} <b><color:DarkGoldenRod><&key></color> id</b>: UUID 
+  {field} <color:#EFEFEF><&media-record></color> procedure_txt: CHARACTER VARYING 
+  {field} <color:#EFEFEF><&media-record></color> owner: CHARACTER VARYING 
+  {field} <color:#EFEFEF><&media-record></color> created_at: TIMESTAMP WITHOUT TIME ZONE(6) 
+}
+
+entity "<b>meal_i18n</b>" as meal_i18n {
+  {field} <b><color:DarkGoldenRod><&key></color> locale</b>: CHARACTER VARYING(5) 
+  {field} <color:#EFEFEF><&media-record></color> procedure_txt: CHARACTER VARYING 
+  {field} <color:#EFEFEF><&media-record></color> name: CHARACTER VARYING 
+  {field} <color:#EFEFEF><&media-record></color> created_at: TIMESTAMP WITHOUT TIME ZONE(6) 
+  {field} <b><color:DarkGoldenRod><&key></color> id</b>: UUID 
+}
+
+entity "<b>overrides</b>" as overrides {
+  {field} <b><color:DarkGoldenRod><&key></color> id</b>: CHARACTER VARYING 
+  {field} <b><color:DarkGoldenRod><&key></color> locale</b>: CHARACTER VARYING(5) 
+  {field} <b><color:DarkGoldenRod><&key></color> coach</b>: CHARACTER VARYING 
+  {field} <color:#EFEFEF><&media-record></color> procedure_txt: CHARACTER VARYING 
+  {field} <color:#EFEFEF><&media-record></color> name: CHARACTER VARYING 
+  {field} <color:#EFEFEF><&media-record></color> created_at: TIMESTAMP WITHOUT TIME ZONE(6) 
+}
+
+meal_i18n }|- -|| meals
+@enduml
+
+PlantUML version 1.2021.16beta3(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

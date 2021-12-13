@@ -24,6 +24,7 @@
 
 ## Description
 
+<img src="diagram.svg" alt="Physical Diagram" />
 Endpoints:
 Create their own meals in addition to the existing platform meals (e.g. a coach would like to add a family recipe for lasagne)
 
