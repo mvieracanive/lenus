@@ -25,6 +25,10 @@
 ## Description
 
 <img src="diagram.svg" alt="Physical Diagram" />
+
+IMPORTANT</br>
+<style="color: red">Edit .env file at root folder.</style>
+
 ENDPOINTS FOR REQUIREMENTS</br>
 
 <em>Create their own meals in addition to the existing platform meals (e.g. a coach would like to add a family recipe for lasagne)</em>
