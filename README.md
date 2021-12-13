@@ -27,7 +27,7 @@
 <img src="diagram.svg" alt="Physical Diagram" />
 
 IMPORTANT</br>
-<style="color: red">Edit .env file at root folder.</style>
+<span style="color: red"> Edit .env file at root folder </span>
 
 ENDPOINTS FOR REQUIREMENTS</br>
 
