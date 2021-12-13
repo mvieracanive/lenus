@@ -47,7 +47,7 @@ export class OverridenMealsServices{
     }
 
     async create(dto: OverridenMealsDto):Promise<OverridenMealsDto>{
-        //validate input
+        //validate input also add validation for meal being overriden is SYSTEM's
         const v= await ManualValidatorsHook.validateDtoByClassValidator(dto);
         
         try{

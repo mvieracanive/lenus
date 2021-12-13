@@ -24,6 +24,35 @@
 
 ## Description
 
+Endpoints:
+Create their own meals in addition to the existing platform meals (e.g. a coach would like to add a family recipe for lasagne)
+
+POST /meals/{coach} ex /meals/maia
+
+Add that meal tr
+
+POST /meals/{id}/{locale} ex /meals/27f23f2e-9feb-487d-a901-2a5d89072523/en_US
+
+Create overrides for the translations of existing meals (e.g. a coach would like to rename the english name of an existing meal from "Protein Shake" to "Nature's Milk")
+
+POST /overridenmeals/{id}/{locale}/{coach}
+
+Get list of all meals, in English
+
+GET /meals/en_US/{coach}
+
+Get list of all meals, in Danish, with (potential) coach overrides
+
+GET /overridenmeals/{locale}/{coach}
+
+Get list of all meals, including coach owned
+
+GET /meals
+
+Get list of all meals, excluding coach owned
+
+GET /meals/SYSTEM
+
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation

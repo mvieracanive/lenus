@@ -25,9 +25,8 @@ export class OverridenMealsController {
     @Param('coach') coach: string,
     @Body() dto: CreateOverrideDto, @Res({ passthrough: true }) res: any
     ){
-      console.log(id,"AAAAAAAAAAAAAAAAAAAAAAAaa");
       if (coach === undefined)
-        throw new HttpException('You need to provide the coach overriding as no authentication or similar is in place', HttpStatus.BAD_REQUEST)
+        throw new HttpException('You need to provide the coach overriding', HttpStatus.BAD_REQUEST)
       
       const obj:OverridenMealsDto = plainToClass(OverridenMealsDto, {
               ...dto,
