@@ -25,8 +25,9 @@
 ## Description
 
 <img src="diagram.svg" alt="Physical Diagram" />
-Endpoints:
-Create their own meals in addition to the existing platform meals (e.g. a coach would like to add a family recipe for lasagne)
+ENDPOINTS FOR REQUIREMENTS</br>
+
+<em>Create their own meals in addition to the existing platform meals (e.g. a coach would like to add a family recipe for lasagne)</em>
 
 <strong>POST</strong> /meals/{coach} ex /meals/maia
 
@@ -34,23 +35,23 @@ Add a translation for that meal
 
 <strong>POST</strong> /meals/{id}/{locale} ex /meals/27f23f2e-9feb-487d-a901-2a5d89072523/en_US
 
-Create overrides for the translations of existing meals (e.g. a coach would like to rename the english name of an existing meal from "Protein Shake" to "Nature's Milk")
+<em>Create overrides for the translations of existing meals (e.g. a coach would like to rename the english name of an existing meal from "Protein Shake" to "Nature's Milk")</em>
 
 <strong>POST</strong> /overridenmeals/{id}/{locale}/{coach} with header location enabled and obj body
 
-Get list of all meals, in English
+<em>Get list of all meals, in English</em>
 
 <strong>GET</strong> /meals/en_US/{coach}
 
-Get list of all meals, in Danish, with (potential) coach overrides
+<em>Get list of all meals, in Danish, with (potential) coach overrides</em>
 
 <strong>GET</strong> /overridenmeals/{locale}/{coach} with sort enabled
 
-Get list of all meals, including coach owned
+<em>Get list of all meals, including coach owned</em>
 
 <strong>GET</strong> /meals
 
-Get list of all meals, excluding coach owned
+<em>Get list of all meals, excluding coach owned</em>
 
 <strong>GET</strong> /meals/SYSTEM
 
